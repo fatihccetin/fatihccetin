@@ -13,7 +13,7 @@
 
 -->
 
-<img src="https://media.giphy.com/media/HzW4K6qyjQBSaXvjRh/giphy.gif" align="right" with="400" height="250">
+<img src="https://media.giphy.com/media/M9kgjEsLG6LMbYC9dl/giphy.gif" align="right" with="400" height="250">
 
 ### Hi there, I'm Fatih 👋
 
