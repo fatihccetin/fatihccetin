@@ -13,7 +13,7 @@
 
 -->
 
-<img src="https://media.giphy.com/media/M9kgjEsLG6LMbYC9dl/giphy.gif" align="right" with="400" height="250">
+<img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" align="right" with="400" height="250">
 
 ### Hi there, I'm Fatih 👋
 
@@ -48,6 +48,17 @@
 
 <br>
 <br>
+<hr>
+
+#Lates Medium Stroy
+
+
+
+
+
+
+<hr>
+
 
 <details>
 <summary>:bulb: Github Stats</summary>
@@ -58,7 +69,6 @@
 <summary>:bulb:  Most Used Languages</summary>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatihccetin&layout=compact" >
 </details>
-
 
 <br />
 
