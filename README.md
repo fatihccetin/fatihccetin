@@ -25,7 +25,7 @@
 
 
 
-[<img height="24" width="24" align= "center" src="img/linkedin.png"/>][linkedin]
+[<img height="24" width="24" align= "center" src="img/linkedin.png"/>][linkedln]
 [<img height="24" width="24" align= "center" src="img/twitter.png"/>][twitter]
 [<img height="24" width="24" align= "center" src="img/medium.png"/>][medium]
 [<img height="24" width="24" align= "center" src="img/email.png"/>](mailto:fatih.ccetin2@gmail.com)
