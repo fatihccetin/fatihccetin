@@ -53,11 +53,11 @@
 #Latest Medium Story
 
 <!-- BLOG-POST-LIST:START -->
-- [PythonAnywhere](https://kaplanark.wordpress.com/2020/01/09/pythonanywhere/)
-- [CloudReady Linux(Beta)](https://kaplanark.wordpress.com/2020/01/08/cloudready-linuxbeta/)
-- [Cloud Ready](https://kaplanark.wordpress.com/2020/01/08/cloud-ready/)
-- [django](https://kaplanark.wordpress.com/2020/01/04/django-2/)
-- [VirtualEnv](https://kaplanark.wordpress.com/2020/01/04/virtualenv/)
+- [React Components Yapısı](https://medium.com/@fatih.ccetin2/react-components-yap%C4%B1s%C4%B1-847cef9248de?source=rss-48d8c4d19c97------2)
+- [JSX Formatında bilmemiz gereken basit kullanımlar](https://medium.com/@fatih.ccetin2/jsx-format%C4%B1nda-bilmemiz-gereken-basit-kullan%C4%B1mlar-833bf89d33b1?source=rss-48d8c4d19c97------2)
+- [Visual Studio Code JSX için Emmet destegini etkinleştirme | React](https://medium.com/@fatih.ccetin2/visual-studio-code-jsx-i%C3%A7in-emmet-destegini-etkinle%C5%9Ftirme-react-d8a6d6acabd1?source=rss-48d8c4d19c97------2)
+- [React Kurulumu ve ilk uygulama](https://medium.com/@fatih.ccetin2/react-kurulumu-ve-ilk-uygulama-e8edc9144bf2?source=rss-48d8c4d19c97------2)
+- [React.js Nedir ve Bazı terimleri](https://medium.com/@fatih.ccetin2/react-js-nedir-ve-baz%C4%B1-terimleri-38c9826fb214?source=rss-48d8c4d19c97------2)
 <!-- BLOG-POST-LIST:END -->
 <hr>
 
