@@ -50,9 +50,7 @@
 <br>
 <hr>
 
-#Lates Medium Stroy
-
-
+#Latest blog post
 
 
 
