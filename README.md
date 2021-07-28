@@ -25,7 +25,7 @@
 
 
 
-[<img color="blue"  width="22" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" align="left" />][linkedin]
+[<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" align="left" color="green" />][linkedln]
 [<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/medium.svg" align="left" />][medium]
 [<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/twitter.svg" align="left" />][twitter]
 
