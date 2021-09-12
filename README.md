@@ -15,6 +15,9 @@
 
 <img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" align="right" with="400" height="250">
 
+<img src="https://giphy.com/clips/collin-arrested-development-exhausted-george-michael-bluth-B3JqtWuH0FjOXDnVSM" align="right" with="400" height="250">
+
+
 ### Hi there, I'm Fatih 👋
 
 ## Junior Front-End Developer
