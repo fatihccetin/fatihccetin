@@ -28,12 +28,10 @@
 [<img height="24" width="24" align= "center" src="img/medium.png"/>][medium]
 [<img height="24" width="24" align= "center" src="img/email.png"/>](mailto:fatih.ccetin2@gmail.com)
 
+<br/>
 <p align="center" > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fatihccetin" alt="fatihccetin" /></a> </p>
+<br/>
 
-
-
-<br />
-<br />
 
 ### Tech I use
 
