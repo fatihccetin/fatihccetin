@@ -16,6 +16,7 @@
 <img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" align="right" with="400" height="250">
 
 ### Hi there, I'm Fatih 👋
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fatihccetin" alt="fatihccetin" /></a> </p>
 
 ## Junior Front-End Developer
 
