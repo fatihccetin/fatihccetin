@@ -15,7 +15,7 @@
 
 <img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" align="right" with="400" height="250">
 
-<img src="https://giphy.com/clips/collin-arrested-development-exhausted-george-michael-bluth-B3JqtWuH0FjOXDnVSM" align="right" with="400" height="250">
+<div style="width:480px"><iframe allow="fullscreen" frameBorder="0" height="360" src="https://giphy.com/embed/gtm6yZur9eRFoo1UvO/video" width="480"></iframe></div>
 
 
 ### Hi there, I'm Fatih 👋
