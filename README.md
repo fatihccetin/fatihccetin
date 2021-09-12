@@ -61,7 +61,7 @@
 <hr>
 
 
-<details>
+<!-- <details>
 <summary>:bulb: Github Stats</summary>
 <img  src="https://github-readme-stats.vercel.app/api?username=fatihccetin&theme=radical" >
 </details>
@@ -70,7 +70,15 @@
 <summary>:bulb:  Most Used Languages</summary>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatihccetin&layout=compact" >
 </details>
-
+ -->
+ 
+ <summary>:bulb:  Most Used Languages</summary>
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fatihccetin&show_icons=true&theme=radical&locale=en&layout=compact" alt="fatihccetin" /></p>
+<summary>:bulb: Github Stats</summary>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fatihccetin&show_icons=true&theme=dark&locale=en" alt="fatihccetin" width="50%" /></p>
+ 
+ 
+ 
 <br />
 
 
