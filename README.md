@@ -15,11 +15,6 @@
 
 <img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" align="right" with="400" height="250">
 
-<img src="https://giphy.com/embed/gtm6yZur9eRFoo1UvO/video" align="right" with="400" height="250">
-
-
-
-
 ### Hi there, I'm Fatih 👋
 
 ## Junior Front-End Developer
