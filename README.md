@@ -21,18 +21,15 @@
 
 <font color="pink">Coffee is how I keep up with '< code />'  </font>
 
-<p align="center" > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fatihccetin" alt="fatihccetin" /></a> </p>
-
-
-
 ### React out to me
-
-
 
 [<img height="24" width="24" align= "center" src="img/linkedin.png"/>][linkedln]
 [<img height="24" width="24" align= "center" src="img/twitter.png"/>][twitter]
 [<img height="24" width="24" align= "center" src="img/medium.png"/>][medium]
 [<img height="24" width="24" align= "center" src="img/email.png"/>](mailto:fatih.ccetin2@gmail.com)
+
+<p align="center" > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fatihccetin" alt="fatihccetin" /></a> </p>
+
 
 
 <br />
