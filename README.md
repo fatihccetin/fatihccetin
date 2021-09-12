@@ -42,7 +42,10 @@
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="25" height="25" />
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" width="25" height="25" />
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" width="25" height="25" />
-<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sharp/sharp.png" width="25" height="25" />
+<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" width="25" height="25" />
+<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" width="25" height="25" />
+<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" width="25" height="25" />
+
 
 <br>
 <hr>
@@ -58,28 +61,11 @@
 <!-- BLOG-POST-LIST:END -->
 <hr>
 
-
-<!-- <details>
-<summary>:bulb: Github Stats</summary>
-<img  src="https://github-readme-stats.vercel.app/api?username=fatihccetin&theme=radical" >
-</details>
-
-<details>
-<summary>:bulb:  Most Used Languages</summary>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatihccetin&layout=compact" >
-</details>
- -->
- 
- 
  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fatihccetin&show_icons=true&theme=radical&locale=en&layout=compact" alt="fatihccetin" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fatihccetin&show_icons=true&theme=dark&locale=en" alt="fatihccetin" width="50%" /></p>
  
- 
- 
 <br />
-
-
 
 [linkedln]:https://www.linkedin.com/in/fatih-cetin-4baa4915b/
 [medium]:https://medium.com/@fatih.ccetin2
